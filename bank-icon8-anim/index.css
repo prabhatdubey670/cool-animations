@@ -1,0 +1,10 @@
+:root {
+  background-color: rgb(33, 5, 5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.animated-banking-gif {
+  width: 50%;
+  height: 50%;
+}
